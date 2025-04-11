@@ -9,6 +9,7 @@ O programa pede 2 entradas: Data de expedição da conta de água e o valor, com
 e realiza o calculo baseando-se na quantidade de pessoas que moram no apartamento.
 
 Por exemplo: se tiver 1 adulto morando no apartamento e a conta de água no mês for 700:
+
 ** 700.00 / total de inquilinos que moram no mesmo predio * a quantidade de inquilinos que moram neste apartamento específico (neste caso é 1) **
 A distribuição é feita através do Watssapp.
 
